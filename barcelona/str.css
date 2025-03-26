@@ -1,10 +1,29 @@
 html{
-    background-color: rgb(32, 20, 52)
+    background-image: url("../barcelona/img/BARÇA_1-1920x1184.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
-body{
-
-    width: 200%
+h1{
+    margin-top: 0%;
 }
-.yamal{
-    width: 1600px;
+.titulo{
+    color: rgb(#781212);
+    display: flex;
+    width: 40%;
+}
+.cabecario{
+    background-color: #100c24;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cabecario .til{
+    width: 150px;
+}
+.menu{
+    display: flex;
+}
+.menu li a{
+    color: #a12121;
+    margin: 20px
 }
