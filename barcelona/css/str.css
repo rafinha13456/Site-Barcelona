@@ -11,18 +11,34 @@ body{
 }
 .barcelona{
     color: white;
-    background-color: #00275e;
-    margin-top: 35px;
-    height: 50px;
+    background-color: #0a0927;
+    margin-top: -81px;
+    height: 67px
+}
 
+.barca{
+    color: rgba(255, 255, 255, 0);
+    background: linear-gradient(270deg, #9b0041 0, #9b0041 48%, #0018b4 52%, #0018b4);
+    margin-top: 49px;
+    height: 6px
 }
 .barcelona img{
     width: 6%;
 }
 .logo{
-    width: 86px;
-    left: 0%;
-    right: 0%;
+    width: 84px;
+    padding-left: 35px;
+    margin-bottom: -116px;
+}
+.logonike{
+    width: 54px;
+    padding-left: 81%;
+    margin-bottom: -1%;
+}
+.logospotify{
+    width: 35px;
+    padding-left: 7%;
+    margin-bottom: -1%;
 }
  .raphinha{
     display: inline;
